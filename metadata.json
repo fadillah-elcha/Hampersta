@@ -1,0 +1,6 @@
+{
+  "name": "Hampersta'",
+  "description": "Etalase digital dan landing page premium untuk hampers estetik Hampersta'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
